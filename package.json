@@ -1,0 +1,34 @@
+{
+  "name": "saturn",
+  "version": "0.0.1",
+  "description": "Saturn | Gelişmiş Discord Bot!",
+  "main": "saturn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shiva",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.11.1",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-gyp": "^7.1.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "randomstring": "^1.1.5",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "steam-provider": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^4.4.5"
+  },
+  "keywords": []
+}
